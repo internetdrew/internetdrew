@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @internetdrew, a self-taught front end engineer in the making.
-- 👀 I’m interested in creating user-friendly web applications and web3 implementations.
+- 👋 Hi, I’m @internetdrew, a front-end software engineer in the making.
+- 👀 I’m interested in creating user-friendly web applications.
 - 🌱 I’m currently learning my way around React.
 - 📫 How to reach me: andrew(at)internetdrew(dot)com or @internet_drew on Twitter.
 
