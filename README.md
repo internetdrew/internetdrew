@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @internetdrew, a front-end software engineer in the making.
-- 👀 I’m interested in creating user-friendly web applications.
-- 🌱 I’m currently learning my way around React.
+- 👋 Hi, I’m a front-end software engineer in the making.
+- 👀 I’m interested in creating user-friendly software experiences, the possibilities of web3, and automation.
+- 🌱 I’m currently learning to problem solve with Javascript and looking forward to learning React and Electron.
 - 📫 How to reach me: andrew(at)internetdrew(dot)com or @internet_drew on Twitter.
 
 <!---
