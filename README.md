@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a software engineer in the making.
 - 👀 I’m interested in creating user-friendly software experiences, the possibilities of web3, and automation.
-- 🌱 I’m currently learning to solve problems using Javascript and REALLY looking forward to learning both React and Electron.
+- 🌱 I’m currently learning to leverage React and am looking forward to creating with Electron.
 - 📫 How to reach me: andrew(at)internetdrew(dot)com or (@_internetdrew) on Twitter.
 
 <!---
