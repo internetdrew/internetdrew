@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a software engineer in the making.
-- 👀 I’m interested in creating user-friendly software experiences, the possibilities of web3, and automation.
-- 🌱 I’m currently learning to leverage React and am looking forward to creating with Electron.
+- 👋 Hi, I’m a frontend engineer who loves creating great internet experiences.
+- 👀 I’m interested in creating user-friendly, quality software and websites.
+- 🌱 I’m currently loving getting more familiar with Next.js for interactive experiences and Astro for static sites.
 - 📫 How to reach me: andrew(at)internetdrew(dot)com or (@_internetdrew) on Twitter.
 
 <!---
