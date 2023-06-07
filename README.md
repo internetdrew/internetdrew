@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a frontend-leaning Full stack software engineer who loves creating high quality internet experiences.
+- 👋 Hi, I’m a frontend-leaning full-stack software engineer who loves creating high quality internet experiences.
 - 👀 I’m all about tapping into user insights to improve their digital experiences.
 - 🌱 Currently loving building solutions with Next.js and curious about C# and .NET Maui in the future.
 - 📫 How to reach me: andrew(at)internetdrew(dot)com or (@_internetdrew) on Twitter.
