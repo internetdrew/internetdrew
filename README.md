@@ -1,6 +1,6 @@
-- 👋 Hi, I’m a frontend engineer who loves creating great internet experiences.
-- 👀 I’m as big on creating user-friendly, quality software and websites as I am on Seinfeld.
-- 🌱 Currently getting more familiar with Next.js 12 & 13(experimental features) for interactive experiences and Astro for (insanely fast, lighthouse beasting) static sites.
+- 👋 Hi, I’m a frontend-leaning Full stack software engineer who loves creating high quality internet experiences.
+- 👀 I’m all about tapping into user insights to improve their digital experiences.
+- 🌱 Currently loving building solutions with Next.js and curious about C# and .NET Maui in the future.
 - 📫 How to reach me: andrew(at)internetdrew(dot)com or (@_internetdrew) on Twitter.
 
 <!---
