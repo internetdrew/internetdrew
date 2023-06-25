@@ -12,8 +12,8 @@ Currently, I'm enjoying working with Next.js, a versatile React framework, to de
 
 Let's collaborate and create exceptional digital experiences together!
 
-
-- 📫 How to reach me: andrew(at)internetdrew(dot)com or (@_internetdrew) on Twitter.
+### 📫 How to Reach Me
+You can email me at andrew(at)internetdrew(dot)com, [find me on Twitter](https://twitter.com/_internetdrew), or [connect with me on LinkedIn](https://www.linkedin.com/in/internetdrew/).
 
 <!---
 internetdrew/internetdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
