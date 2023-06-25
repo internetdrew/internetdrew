@@ -8,7 +8,7 @@ I'm deeply interested in tapping into user insights to improve their digital exp
 
 ### 🌱 Current Tech Stack
 
-Currently, I'm enjoying working with Next.js, a versatile React framework, to develop performant and scalable applications. In addition, I'm curious about exploring C# and .NET Maui in the future, as I believe they offer exciting possibilities for cross-platform development.
+Currently, I'm enjoying working with Next.js to develop performant and scalable applications. In addition, I'm curious about exploring C# and .NET Maui in the future, as I believe they offer exciting possibilities for cross-platform development.
 
 Let's collaborate and create exceptional digital experiences together!
 
