@@ -8,7 +8,7 @@ I'm deeply interested in tapping into user insights to improve their digital exp
 
 ### 🌱 Current Tech Stack
 
-I'm enjoying working with Next.js, Supabase, PlanetScale, Prisma, React Form Hook, and more to develop performant and scalable applications. In addition, I'm curious about exploring C# and .NET Maui in the future, as I believe they offer exciting possibilities for cross-platform development.
+I'm enjoying working with Next.js, Supabase, PlanetScale, Prisma, React Hook Form, and more to develop performant and scalable applications. In addition, I'm curious about exploring C# and .NET Maui in the future, as I believe they offer exciting possibilities for cross-platform development.
 
 Let's collaborate and create exceptional digital experiences together!
 
