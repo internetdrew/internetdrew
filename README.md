@@ -6,7 +6,7 @@ I'm a frontend-leaning full-stack software developer passionate about creating h
 
 I'm deeply interested in tapping into user insights to improve their digital experiences. By understanding user behavior, preferences, and pain points, I create solutions that truly resonate with them and exceed their expectations.
 
-## 🌱 Current Tech Stack
+## 👨🏾‍💻 Current Tech Stack
 
 I'm enjoying working with Next.js, Supabase, PlanetScale, Prisma, React Hook Form, and more to develop performant and scalable applications. In addition, I'm building up familiarity with NLP and LLMs to better integrate generative AI into products.
 
