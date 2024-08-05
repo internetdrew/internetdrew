@@ -3,6 +3,8 @@
 Product-driven engineer with a passion for turning innovative concepts into exceptional realities. My focus lies in crafting intuitive and user-centric experiences that not only delight users but also contribute significantly to business success. I thrive on the challenge of solving complex problems through elegant solutions, and I'm constantly seeking new opportunities to learn, grow, and create impactful products.
 
 ## Things I've Built
+- [Hackers, The Unofficial Movie API](https://hackerstheapi.com/)
+  - An API based on the 1995 movie "Hackers". Get information on characters, organizations, hacks, quotes, and more. Inspired by the continued maintenance of Cyberdelia NYC and Hackers Curator by fellow fans. Hack the planet!
 
 ## Things I've Written
 - [Building Flexible React Components with TypeScript: Conditional Props in Action](https://www.internetdrew.com/blog/typescript-conditional-props)
