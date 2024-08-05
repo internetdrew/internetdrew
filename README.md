@@ -1,4 +1,4 @@
-## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Andrew!
+## 👋🏾 Hi there, I'm Andrew!
 
 Product-driven engineer with a passion for turning innovative concepts into exceptional realities. My focus lies in crafting intuitive and user-centric experiences that not only delight users but also contribute significantly to business success. I thrive on the challenge of solving complex problems through elegant solutions, and I'm constantly seeking new opportunities to learn, grow, and create impactful products.
 
