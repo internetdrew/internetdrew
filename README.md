@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Andrew!
 
-I'm a product-driven engineer with a passion for turning innovative concepts into exceptional realities. My focus lies in crafting intuitive and user-centric experiences that not only delight users but also contribute significantly to business success. I thrive on the challenge of solving complex problems through elegant solutions, and I'm constantly seeking new opportunities to learn, grow, and create impactful products.
+Product-driven engineer with a passion for turning innovative concepts into exceptional realities. My focus lies in crafting intuitive and user-centric experiences that not only delight users but also contribute significantly to business success. I thrive on the challenge of solving complex problems through elegant solutions, and I'm constantly seeking new opportunities to learn, grow, and create impactful products.
 
 ## Things I've Built
 
