@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Andrew!
 
-I'm a frontend-leaning full-stack software developer passionate about creating high-quality internet experiences. I love building intuitive and user-centric applications that provide exceptional value to users.
+I'm a product-driven engineer with a passion for turning innovative concepts into exceptional realities. My focus lies in crafting intuitive and user-centric experiences that not only delight users but also contribute significantly to business success. I thrive on the challenge of solving complex problems through elegant solutions, and I'm constantly seeking new opportunities to learn, grow, and create impactful products.
 
 ## 👀 My Focus
 
