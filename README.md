@@ -12,6 +12,9 @@ I'm a product-driven engineer with a passion for turning innovative concepts int
 - [My Portfolio](https://github.com/internetdrew/portfolio-v3)
 <br> Built with Astro, my portfolio site is fast, light, and performant. I went for a very minimalistic approach here as I attempt the find the balance for my own aesthetics.
 
+- [Lesson Collab](https://github.com/internetdrew/lesson-collab)
+<br> LessonCollab is a platform for educators to share, refine, and improve lesson plans through peer feedback.
+
 ## Things I've Written
 - [Building Flexible React Components with TypeScript: Conditional Props in Action](https://www.internetdrew.com/blog/typescript-conditional-props)
 - [Detecting Outside Click Events with JavaScript](https://www.internetdrew.com/blog/detecting-outside-click-events-with-javascript)
