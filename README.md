@@ -19,6 +19,7 @@ I'm a product-driven engineer with a passion for turning innovative concepts int
 <br> LessonCollab is a platform for educators to share, refine, and improve lesson plans through peer feedback.
 
 ## Things I've Written
+- [Building and Testing an OTP UI Component with React and TypeScript](https://www.internetdrew.com/blog/building-testing-otp-ui-component-react-typescript)
 - [Building Flexible React Components with TypeScript: Conditional Props in Action](https://www.internetdrew.com/blog/typescript-conditional-props)
 - [Detecting Outside Click Events with JavaScript](https://www.internetdrew.com/blog/detecting-outside-click-events-with-javascript)
 - [Supabase Password-less Authentication with the Next.js Pages Router](https://www.internetdrew.com/blog/supabase-password-less-authentication-with-nextjs-pages-router)
