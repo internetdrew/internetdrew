@@ -9,7 +9,7 @@ I love building things and working with others to bring ideas to life. I'm looki
 
 ## Some Things I've Built
 - [Hackers, The Unofficial Movie API](https://github.com/internetdrew/hackers-the-api)
-<br> An API based on the 1995 movie "Hackers". I built this to get a more intimate feel for building a RESTful API (which I absolutely love doing now) and how to containerize an app (which I'm admittedly still a bit fuzzy on). Get information on characters, organizations, hacks, quotes, and more. Inspired by the continued maintenance of Cyberdelia NYC and Hackers Curator by fellow fans. Hack the planet!
+<br> An API based on the 1995 movie "Hackers". I built this to get a more intimate feel for building a RESTful API (which I absolutely love doing now) and learn a bit about how to containerize an app (which I'm admittedly still a bit fuzzy on). Get information on characters, organizations, hacks, quotes, and more. Inspired by the continued maintenance of Cyberdelia NYC and Hackers Curator by fellow fans. Hack the planet!
 
 - [NYC Crash Radar](https://github.com/internetdrew/nyc-crash-radar)
 <br> After getting frustrated with learning some back end development and having a tough time getting pumped to code, I built this for fun to remind myself that it's all good. Woosah. This little project leverages New York City's [Motor Vehicle Collisions - Crashes API](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data) to see the latest crash data from around New York City.
