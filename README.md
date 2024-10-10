@@ -2,8 +2,6 @@
 
 I love turning ideas into realities on the internet. I’ve spent years diving deep into the world of full-stack development, but my heart truly lies in polishing the fine details of UIs and making experiences so smooth that they make people smile (even on a bad day). I love the challenge of turning complex ideas into simple, intuitive experiences.
 
-**Work Relationship Status:** Currently Looking
-
 I love building things and working with others to bring ideas to life. I'm looking for a role in a startup or small company where I can work closely with smart, driven people, excite users by going hard to implement features on the roadmap and, of course, help drive business growth through impactful implementations.
 
 
