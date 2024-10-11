@@ -1,7 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I love turning ideas into products. I’ve spent years diving deep into the world of full-stack development, but my heart truly lies in polishing the fine details of UIs and making experiences so smooth that they make people smile (even on a bad day). I love the challenge of turning complex ideas into simple, intuitive experiences.
-
+I love turning ideas into products that people enjoy. While I work full-stack, I have a knack for crafting simple interfaces that make applications fun and intuitive to use.
 
 ## Some Things I've Built
 - [Hackers, The Unofficial Movie API](https://github.com/internetdrew/hackers-the-api)
