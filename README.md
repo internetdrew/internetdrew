@@ -1,6 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I love turning ideas into products that people enjoy. While I work full-stack, I have a knack for crafting simple interfaces that make applications fun and intuitive to use.
+I'm a Software Engineer who enjoys turning ideas into solutions that offer great user experiences. While I'm comfortable working across the stack, my real passion is in crafting intuitive, engaging interfaces. I love focusing on the product as a whole, which helps me take ownership of processes end-to-end, making sure that every feature not only works well but truly enhances the user experience.
 
 ## Some Things I've Built
 - [Hackers, The Unofficial Movie API](https://github.com/internetdrew/hackers-the-api)
