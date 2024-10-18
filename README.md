@@ -15,7 +15,7 @@ I'm a Software Engineer who enjoys turning ideas into solutions that offer great
 - [My Portfolio](https://github.com/internetdrew/portfolio-v3)
 <br> Ah. My little internet baby. I built this with my favorite framework for contentful sites, Astro. It's light, it's fast, it sends as little js to the browser as possible, and I even converted to a markdown-based blog (which from a DX standpoint is **INCREDIBLE** in comparison to dealing with a CMS).
 
-## Things I've Written
+## Articles I've Written
 I try to share knowledge or perspective after some ordeals. Here's where you can see some of my latest pieces:
 
 - [Building and Testing an OTP UI Component with React and TypeScript](https://www.internetdrew.com/blog/building-testing-otp-ui-component-react-typescript)
