@@ -3,15 +3,6 @@
 I'm a Software Developer who enjoys turning ideas into solutions that offer great user experiences. I'm proficient across the stack, with a particular focus on crafting intuitive, engaging interfaces. I love focusing on products as a whole, which helps me take ownership of end-to-end processes, making sure that every feature not only works well but also has a positive impact on the business and the user experience.
 
 ## Things I've Built
-- [Hackers, The Unofficial Movie API](https://github.com/internetdrew/hackers-the-api)
-<br> An API based on the 1995 movie "Hackers". I built this to get a more intimate feel for building a RESTful API (which I absolutely love doing now) and learn a bit about how to containerize an app (which I'm admittedly still a bit fuzzy on). Get information on characters, organizations, hacks, quotes, and more. Inspired by the continued maintenance of [Cyberdelia NYC](https://www.cyberdelianyc.com/) and [Hackers Curator](https://hackerscurator.com/) by fellow fans. **Hack the planet!**
-
-- [NYC Crash Radar](https://github.com/internetdrew/nyc-crash-radar)
-<br> After getting frustrated with learning some back end development and having a tough time getting pumped to code, I built this for fun to remind myself that it's all good. Woosah. This little project leverages New York City's [Motor Vehicle Collisions - Crashes API](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data) to see the latest crash data from around New York City.
-
-- [Gather Social](https://github.com/internetdrew/gather-social)
-<br> Inspired by a wedding (I tried to build this for the wedding a few days before the wedding [yikes!]), Gather Social allows users to create Instagram-style social feeds for their private events. When the event is over, admins can one-click download all photos submitted for in the event. I realized a fundamental flaw in how I conceptualized this product after fully building it and will be building out a v2 to see if it takes off.
-
 - [My Portfolio](https://github.com/internetdrew/portfolio-v3)
 <br> Ah. My little internet baby. I built this with my favorite framework for contentful sites, Astro. It's light, it's fast, it sends as little js to the browser as possible, and I even converted to a markdown-based blog (which from a DX standpoint is **INCREDIBLE** in comparison to dealing with a CMS).
 
