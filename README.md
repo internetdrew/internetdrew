@@ -1,6 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I'm a Software Engineer who enjoys turning ideas into solutions that offer great user experiences. I'm proficient across the stack, with a particular focus on crafting intuitive, engaging interfaces. I love focusing on products as a whole, which helps me take ownership of end-to-end processes, making sure that every feature not only works well but also has a positive impact on the business and the user experience.
+I'm a Software Developer who enjoys turning ideas into solutions that offer great user experiences. I'm proficient across the stack, with a particular focus on crafting intuitive, engaging interfaces. I love focusing on products as a whole, which helps me take ownership of end-to-end processes, making sure that every feature not only works well but also has a positive impact on the business and the user experience.
 
 ## Things I've Built
 - [Hackers, The Unofficial Movie API](https://github.com/internetdrew/hackers-the-api)
