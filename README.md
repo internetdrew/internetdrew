@@ -4,7 +4,7 @@ I'm a Software Developer who enjoys turning ideas into solutions that offer grea
 
 ## Things I've Built
 - [My Portfolio](https://github.com/internetdrew/portfolio-v3)
-<br> Ah. My little internet baby. I built this with my favorite framework for contentful sites, Astro. It's light, it's fast, it sends as little js to the browser as possible, and I even converted to a markdown-based blog (which from a DX standpoint is **INCREDIBLE** in comparison to dealing with a CMS).
+<br> I built this with my favorite framework for contentful sites, Astro. It's light, and fast, and sends as little JavaScript to the browser as possible. Leverages a markdown-based blog for simple, easy updates.
 
 ## Things I've Written
 As I learn new things, I love to find time to share my lessons to save others time. Here are some of my most recent posts:
