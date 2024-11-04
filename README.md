@@ -1,6 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I'm a Software Developer who enjoys turning ideas into solutions that offer great user experiences. I'm proficient across the stack, with a particular focus on crafting intuitive, engaging interfaces. I love focusing on products as a whole, which helps me take ownership of end-to-end processes, making sure that every feature not only works well but also has a positive impact on the business and the user experience.
+Software Developer turning ideas into impactful solutions with a focus on seamless user experiences. Skilled across the stack, I specialize in creating intuitive, engaging interfaces and take ownership of projects end-to-end to ensure every feature delivers value for both users and the business.
 
 ## Things I've Built
 - [Lost & Found HQ](https://github.com/internetdrew/lost-and-found-hq) (work-in-progress)<br/>Lost & Found HQ is a platform that helps businesses streamline their lost and found operations, making it effortless to reunite customers with their missing items.
