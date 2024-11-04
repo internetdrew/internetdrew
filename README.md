@@ -3,6 +3,8 @@
 I'm a Software Developer who enjoys turning ideas into solutions that offer great user experiences. I'm proficient across the stack, with a particular focus on crafting intuitive, engaging interfaces. I love focusing on products as a whole, which helps me take ownership of end-to-end processes, making sure that every feature not only works well but also has a positive impact on the business and the user experience.
 
 ## Things I've Built
+- [Lost & Found HQ](https://github.com/internetdrew/lost-and-found-hq) (work-in-progress)<br/>Lost & Found HQ is a platform that helps businesses streamline their lost and found operations, making it effortless to reunite customers with their missing items.
+
 - [My Portfolio](https://github.com/internetdrew/portfolio-v3)
 <br> I built this with my favorite framework for contentful sites, Astro. It's light, and fast, and sends as little JavaScript to the browser as possible. Leverages a markdown-based blog for simple, easy updates.
 
