@@ -5,6 +5,8 @@ Software Developer turning ideas into impactful solutions with a focus on seamle
 ## Things I've Built
 - [Lost & Found HQ](https://github.com/internetdrew/lost-and-found-hq) (work-in-progress)<br/>Lost & Found HQ is a platform that helps businesses streamline their lost and found operations, making it effortless to reunite customers with their missing items.
 
+- [Hackers, The Unofficial Movie API]()<br/>An API based on the 1995 movie "Hackers". Get information on characters, organizations, hacks, quotes, and more.
+
 - [My Portfolio](https://github.com/internetdrew/portfolio-v3)
 <br> I built this with my favorite framework for contentful sites, Astro. It's light, and fast, and sends as little JavaScript to the browser as possible. Leverages a markdown-based blog for simple, easy updates.
 
