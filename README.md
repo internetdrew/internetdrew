@@ -1,6 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I got into building software because I want to bring people closer together. Funny enough, it feels like social media – for all its ability to connect us to anyone, anywhere – has somehow made us feel more apart. Maybe it’s the overload being knowing of and grappling with too many issues at once.
+I started building software to bring people closer together. Ironically, even with social media connecting us to anyone, anywhere, it often feels like we’re more disconnected than ever. These days, the internet experience feels more driven to overwhelm than connect.
 
 When I build apps, I try to cut through that noise. I like keeping things simple, focused, and fun – finding ways to keep people connected without adding to the overwhelm. I’m drawn to challenges, whether they’re social or business-related, and I love coming up with solutions that people actually enjoy using.
 
