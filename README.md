@@ -1,6 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I’m a software developer who loves turning ideas and workflow challenges into real, impactful solutions. I focus on creating intuitive user experiences and enjoy taking projects from start to finish, bringing ideas to life along the way.
+I’m a software developer who loves turning challenges into smooth, impactful solutions. I focus on creating intuitive experiences that people actually enjoy, taking projects from idea to launch.
 
 ## Things I've Built
 ### [Lost & Found HQ](https://github.com/internetdrew/lost-and-found-hq) 
