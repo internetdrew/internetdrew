@@ -7,7 +7,7 @@ When I build apps, I try to cut through that noise. I like keeping things simple
 My background in content strategy (both D2C and B2B) taught me how to really listen – to dig into what people are struggling with and figure out how to solve the actual problem, not just the symptoms. As a developer, I bring that same mindset. I ask questions, poke around at the “why,” and look for the kinds of solutions that make a real difference.
 
 ## Things I've Built
-### [Lost & Found HQ](https://github.com/internetdrew/lost-and-found-hq) 
+### [Lost & Found HQ](https://github.com/internetdrew/lost-and-found-hq) (Current work-in-progress)
 Lost & Found HQ is a platform that helps businesses effortlessly reunite customers with their missing items.
 
 ## 📫 How to Reach Me
