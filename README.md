@@ -8,7 +8,7 @@ My background in content strategy (both D2C and B2B) taught me how to really lis
 
 ## Products I've Created
 ### [Lost & Found HQ](https://github.com/internetdrew/lost-and-found-hq)
-Lost & Found HQ is a platform that helps businesses effortlessly reunite customers with their missing items.
+Lost & Found HQ is a platform that helps businesses effortlessly reunite customers with their lost items.
 
 ## 📫 How to Reach Me
 You can email me at andrew(at)internetdrew(dot)com, [find me on Twitter](https://twitter.com/_internetdrew), or [connect with me on LinkedIn](https://www.linkedin.com/in/internetdrew/).
