@@ -6,10 +6,6 @@ I’m drawn to challenges, whether they’re social or business-related, and I l
 
 My background in content strategy (both D2C and B2B) taught me how to really listen – to dig into what people are struggling with and figure out how to solve the actual problem, not just the symptoms. As a developer, I bring that same mindset. I ask questions, poke around at the “why,” and look for the kinds of solutions that make a real difference.
 
-## Products I've Created
-### [Lost & Found HQ](https://github.com/internetdrew/lost-and-found-hq)
-Lost & Found HQ is a platform that helps businesses effortlessly reunite customers with their lost items.
-
 ## 📫 How to Reach Me
 You can email me at andrew(at)internetdrew(dot)com, [find me on Twitter](https://twitter.com/_internetdrew), or [connect with me on LinkedIn](https://www.linkedin.com/in/internetdrew/).
 
