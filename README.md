@@ -1,10 +1,12 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I started building software to bring people closer together. Ironically, even with social media connecting us to anyone, anywhere, it often feels like we’re more disconnected than ever. These days, the internet experience feels more driven to overwhelm than connect. This is what drives me to create things that are simple, focused on bringing people together, and serve their purpose with minimal noise and distraction.
+I'm a front-end-leaning, full-stack web developer. I love working with tight-knit teams who love what they do. Especially pumped about going from 0 to 1, improving user-interfaces and experiences, making technical concepts digestible for non-technical audiences, and connecting with users to make impactful implementations.
 
-I’m drawn to challenges, whether they’re social or business-related, and I love coming up with solutions that people actually enjoy using.
+Firm believer that one of the most challenging things to do is to keep things simple and impactful and try to deliver that in my contributions.
 
-My background in content strategy (both D2C and B2B) taught me how to really listen – to dig into what people are struggling with and figure out how to solve the actual problem, not just the symptoms. As a developer, I bring that same mindset. I ask questions, poke around at the “why,” and look for the kinds of solutions that make a real difference.
+I have a background in content marketing strategy and an interest in product management, both skills that help me dig into the why of creation and implementation and see beyond symptoms to identify problems.
+
+Looking for a role with a tight-knit team to bring a great product and experience to life for users.
 
 ## 📫 How to Reach Me
 You can email me at andrew(at)internetdrew(dot)com, [find me on Twitter](https://twitter.com/_internetdrew), or [connect with me on LinkedIn](https://www.linkedin.com/in/internetdrew/).
