@@ -1,10 +1,8 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I'm a front-end-leaning, full-stack web developer. I love working with tight-knit teams who love what they do. Especially pumped about going from 0 to 1, improving user-interfaces and experiences, making technical concepts digestible for non-technical audiences, and connecting with users to make impactful implementations.
+I love working with tight-knit teams who love what they do. Especially pumped about going from 0 to 1, improving user-interfaces and experiences, making technical concepts digestible for non-technical audiences, and connecting with users to make impactful implementations.
 
 Firm believer that one of the most challenging things to do is to keep things simple and impactful and try to deliver that in my contributions.
-
-I have a background in content marketing strategy and an interest in product management, both skills that help me dig into the why of creation and implementation and see beyond symptoms to identify problems.
 
 Looking for a role with a tight-knit team to bring a great product and experience to life for users.
 
