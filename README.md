@@ -9,7 +9,7 @@ I have a background in content marketing strategy and an interest in product man
 Looking for a role with a tight-knit team to bring a great product and experience to life for users.
 
 ## Things I've Built
-<a href='https://www.lostandfoundhq.com' target="_blank" rel="noopener noreferrer">Lost & Found HQ</a>
+[Lost & Found HQ](https://www.lostandfoundhq.com)
 Lost & Found HQ is a platform that helps businesses streamline their lost and found operations, making reuniting customers with their missing items effortless.
 
 ## 📫 How to Reach Me
