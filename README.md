@@ -7,7 +7,7 @@ Firm believer that one of the most challenging things to do is to keep things si
 Looking for a role with a tight-knit team to bring a great product and experience to life for users.
 
 ## Things I've Built
-[###Lost & Found HQ](https://www.lostandfoundhq.com)<br/>
+### [Lost & Found HQ](https://www.lostandfoundhq.com)
 Lost & Found HQ is a platform that helps businesses streamline their lost and found operations, making reuniting customers with their missing items effortless.
 
 ## 📫 How to Reach Me
