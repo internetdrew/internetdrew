@@ -2,9 +2,9 @@
 
 I love working with tight-knit teams who love what they do. Especially pumped about going from 0 to 1, improving user-interfaces and experiences, making technical concepts digestible, and connecting with users to make impactful implementations.
 
-Firm believer that one of the most challenging things to do is to keep things simple and impactful and try to deliver that in my contributions.
+Firm believer in keeping things simple and impactful.
 
-Looking for a role with a tight-knit team to bring a great product and experience to life for users.
+Looking for a role with a tight-knit team to bring a great product and experience to life.
 
 ## Things I've Built
 ### [Lost & Found HQ](https://www.lostandfoundhq.com)
