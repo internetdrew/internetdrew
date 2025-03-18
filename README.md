@@ -1,10 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I love working with tight-knit teams who love what they do. Especially pumped about going from 0 to 1, improving user-interfaces and experiences, making technical concepts digestible, and connecting with users to make impactful implementations.
-
-Firm believer in keeping things simple and impactful.
-
-Looking for a role with a tight-knit team to bring a great product and experience to life.
+I'm a software developer & content strategist crafting delightful digital experiences. I believe in building things that are fast, intuitive, and actually useful.
 
 <!---
 internetdrew/internetdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
