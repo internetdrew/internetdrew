@@ -1,6 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-Building for the love of the world wide web. Advocate and champion of the end-user.
+I'm a software developer and social media content strategist. I love building products people love. Starting to dig into Agentic AI and optimizing tedious and creative workflows.
 
 <!---
 internetdrew/internetdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
