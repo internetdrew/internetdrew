@@ -12,7 +12,7 @@ That’s what pushed me to start learning software development. Since then, I’
 An AI-powered tool that helps marketing teams turn blog posts into authority-building LinkedIn posts. Currently gathering feedback from content marketers to guide the next iteration.
 
 ### [Where's the Garlic?](https://www.wheresthegarlic.com)
-A simple, local-first kitchen inventory app. Know what you have, what you need, and what’s being shopped for, in real time.
+A simple, local-first kitchen inventory app. Know what you have, what you need, and what’s being shopped for, in real time. Currently being transitioned to a business-based solution.
 
 <!---
 internetdrew/internetdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
