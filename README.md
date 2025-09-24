@@ -8,6 +8,9 @@ That’s what pushed me to start learning software development. Since then, I’
 
 ## 🛠️ Products I've Built
 
+### [Just the Count](https://www.wheresthegarlic.com)
+Quick daily counts for local businesses. No spreadsheet chaos, no overpriced licenses, no bloated features. Built for small business. Not large warehouses. Perfect for daily counts and quick stock checks across multiple locations.
+
 ### [TappedIn](https://tappedin-two.vercel.app) (MVP)
 An AI-powered tool that helps marketing teams turn blog posts into authority-building LinkedIn posts. Currently gathering feedback from content marketers to guide the next iteration.
 
