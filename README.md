@@ -11,8 +11,8 @@ That’s what pushed me to start learning software development. Since then, I’
 ### [Just the Count](https://www.justthecount.com/)
 A web application built for quick and easy daily counts for local businesses, allowing them to move away from spreadsheets, per-seat pricing, and bloated software. Perfect for daily counts and quick stock checks across multiple locations.
 
-### [TappedIn](https://tappedin-two.vercel.app) (MVP)
-An AI-powered tool that helps marketing teams turn blog posts into authority-building LinkedIn posts. Currently gathering feedback from content marketers to guide the next iteration.
+### [TappedIn](https://tappedin-two.vercel.app)
+An LLM-powered web app that transforms blog posts into authority-building LinkedIn content. Users paste in a blog, select a tone, define the poster persona and target audience, and generate a tailored post ready for LinkedIn.
 
 ### [Where's the Garlic?](https://www.wheresthegarlic.com)
 A simple, local-first kitchen inventory app. Know what you have, what you need, and what’s being shopped for, in real time. Currently being transitioned to a business-based solution.
