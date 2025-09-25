@@ -6,7 +6,7 @@ A few years ago, I built a no-code system to help my content marketing team work
 
 That’s what pushed me to start learning software development. Since then, I’ve been building web apps and looking for an IC role where I can keep growing and building things that actually help people work better.
 
-## 🛠️ Products I've Built
+## 🛠️ Things I've Built
 
 ### [Just the Count](https://www.justthecount.com/)
 Quick daily counts for local businesses. No spreadsheet chaos, no overpriced licenses, no bloated features. Built for small business. Not large warehouses. Perfect for daily counts and quick stock checks across multiple locations.
