@@ -1,6 +1,6 @@
 ## 👋🏾 Hi there, I'm Andrew!
 
-I love building applications and helping people adopt technical products through easy to follow guides, both written and in video. 
+I love building web apps and helping people adopt technical products through easy to follow guides, both written and in video. 
 
 ## 🛠️ Things I've Built
 
