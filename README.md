@@ -5,7 +5,7 @@ I love building web apps and helping people adopt technical products through eas
 ## 🛠️ Things I've Built
 
 ### [Just the Count](https://www.justthecount.com/)
-A web application built for quick and easy daily counts for local businesses, allowing them to move away from spreadsheets, per-seat pricing, and bloated software. Perfect for daily counts and quick stock checks across multiple locations.
+Simple Inventory Management for Multi-location Food Businesses. Enter quantities quickly at each location, see total stock across your organization, and make ordering decisions with confidence.
 
 ### [TappedIn](https://tappedin-two.vercel.app)
 An LLM-powered web app that transforms blog posts into authority-building LinkedIn content. Users paste in a blog, select a tone, define the poster persona and target audience, and generate a tailored post ready for LinkedIn.
