@@ -1,7 +1,7 @@
 ## 🛠️ Things I've Built
 
 ### [Just the Count](https://www.justthecount.com/)
-Simple Inventory Management for Multi-location Food Businesses. Enter quantities quickly at each location, see total stock across your organization, and make ordering decisions with confidence.
+**Simple Inventory Management for Multi-location Food Businesses.** Enter quantities quickly at each location, see total stock across your organization, and make ordering decisions with confidence.
 
 ### [TappedIn](https://tappedin-two.vercel.app)
 An LLM-powered web app that transforms blog posts into authority-building LinkedIn content. Users paste in a blog, select a tone, define the poster persona and target audience, and generate a tailored post ready for LinkedIn.
