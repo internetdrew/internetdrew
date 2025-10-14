@@ -1,6 +1,3 @@
-## 👋🏾 Hi there, I'm Andrew!
-I build web apps and help developers understand and adopt technical products.
-
 ## 🛠️ Things I've Built
 
 ### [Just the Count](https://www.justthecount.com/)
