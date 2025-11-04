@@ -1,13 +1,6 @@
-## 🛠️ Things I've Built
+## Hi, I'm Andrew!
 
-### [Just the Count](https://www.justthecount.com/)
-**Simple Inventory Management for Multi-location Food Businesses.** <br />Enter quantities quickly at each location, see total stock across your organization, and make ordering decisions with confidence.
-
-### [TappedIn](https://tappedin-two.vercel.app)
-An LLM-powered web app that transforms blog posts into authority-building LinkedIn content. Users paste in a blog, select a tone, define the poster persona and target audience, and generate a tailored post ready for LinkedIn.
-
-### [Where's the Garlic?](https://www.wheresthegarlic.com)
-A simple, local-first kitchen inventory app. Know what you have, what you need, and what’s being shopped for, in real time. Currently being transitioned to a business-based solution.
+I love building software and helping brands tell stories that connect them with their audience.
 
 <!---
 internetdrew/internetdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
