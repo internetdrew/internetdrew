@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew!
 
-I love building products that make work and life easier and bringing brand, product, and customer stories to life in short films.
+I build software with a product-first mindset, focused on turning ideas into experiences people actually enjoy using.
 
 <!---
 internetdrew/internetdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
