@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew!
 
-I build software with a product-first mindset and craft human-first product and brand stories.
+Building software with a product-first mindset and crafting human-first product and brand stories.
 
 ## Things I've Built
 - [MenuNook](https://www.menunook.com) - Create and share QR code menus in minutes. Ideal for pop-ups, small kitchens, and creators who want to skip building a full website.
