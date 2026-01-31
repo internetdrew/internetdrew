@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew!
 
-Building software with a product-first mindset and crafting human-first product and brand stories.
+I’m a full-stack developer focused on building simple, thoughtful products. Before writing code, I spent years running content marketing strategy for DTC and B2B businesses, which shapes how I think about users and product today.
 
 ## Things I've Built
 - [MenuNook](https://www.menunook.com) - A menu management platform for pop-up sellers and small businesses to create, share, and instantly update QR-code menus.
