@@ -1,6 +1,12 @@
 ## Hi, I'm Andrew!
 
-I’m a full-stack developer focused on building simple, thoughtful products. Before writing code, I spent years running content marketing strategy for DTC and B2B businesses, which shapes how I think about users and product today.
+I build products end-to-end, with a strong bias toward interface craft and user clarity.
+
+Before I was a developer, I spent years leading content marketing for DTC and B2B companies. That work trained me to think obsessively about users: what they’re trying to do, what confuses them, and what actually drives outcomes. That mindset now shapes how I design and build software.
+
+I start with the interface and the user flow, then shape the backend to support it. I care less about abstraction for its own sake and more about whether the product feels obvious, fast, and dependable.
+
+The result is software that’s thoughtfully designed, technically sound, and easy to evolve, built by someone who thinks like a product owner, not just an implementer.
 
 ## Things I've Built
 - [MenuNook](https://www.menunook.com) - A menu management platform for pop-up sellers and small businesses to create, share, and instantly update QR-code menus.
