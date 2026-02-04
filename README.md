@@ -9,7 +9,7 @@ I start with the interface and the user flow, then shape the backend to support 
 The result is software that’s thoughtfully designed, technically sound, and easy to evolve, built by someone who thinks like a product owner, not just an implementer.
 
 ## Things I've Built
-- [MenuNook](https://www.menunook.com) - A menu management platform for pop-up sellers and small businesses to create, share, and instantly update QR-code menus.
+- [MenuNook](https://github.com/internetdrew/menu-nook-app) - A menu management platform for pop-up sellers and small businesses to create, share, and instantly update QR-code menus.
 
 ## Thoughts I've Shared
 - [Simplicity Matters](https://www.internetdrew.com/thoughts/simplicity-matters) - Thoughts on wanting calm in an era of accelerating chaos.
