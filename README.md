@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew!
 
-I'm a front-end-focused full-stack product engineer building software that makes people feel calm among the chaos — design-forward, clutter-free, and centered on the experience.
+I'm a front-end-focused, full-stack product engineer building software that makes people feel calm among the chaos — design-forward, clutter-free, and centered on the experience.
 
 ## Things I've Built
 - [MenuNook](https://github.com/internetdrew/menu-nook-app) - A menu management platform for pop-up sellers and small businesses to create, share, and instantly update QR-code menus.
