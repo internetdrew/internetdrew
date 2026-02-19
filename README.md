@@ -1,12 +1,6 @@
 ## Hi, I'm Andrew!
 
-I build products end-to-end, with a strong bias toward interface craft and user clarity.
-
-Before I was a developer, I spent years leading content marketing for DTC and B2B companies. That work trained me to think obsessively about users: what they’re trying to do, what confuses them, and what actually drives outcomes. That mindset now shapes how I design and build software.
-
-I start with the interface and the user flow, then shape the backend to support it. I care less about abstraction for its own sake and more about whether the product feels obvious, fast, and dependable.
-
-The result is software that’s thoughtfully designed, technically sound, and easy to evolve, built by someone who thinks like a product owner, not just an implementer.
+I'm a front-end-focused full-stack product engineer building software that makes people feel calm among the chaos — design-forward, clutter-free, and centered on the experience.
 
 ## Things I've Built
 - [MenuNook](https://github.com/internetdrew/menu-nook-app) - A menu management platform for pop-up sellers and small businesses to create, share, and instantly update QR-code menus.
