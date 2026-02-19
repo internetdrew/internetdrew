@@ -10,6 +10,7 @@ The result is software that’s thoughtfully designed, technically sound, and ea
 
 ## Things I've Built
 - [MenuNook](https://github.com/internetdrew/menu-nook-app) - A menu management platform for pop-up sellers and small businesses to create, share, and instantly update QR-code menus.
+- [Absence AI](https://github.com/internetdrew/absence-ai) - A voice-first AI agent that automates school absence reporting. Parents call in, speak naturally, and the system handles everything — collecting student details, triaging illness information for the nurse's office, and generating structured records without any staff involvement.
 
 ## Thoughts I've Shared
 - [Simplicity Matters](https://www.internetdrew.com/thoughts/simplicity-matters) - Thoughts on wanting calm in an era of accelerating chaos.
