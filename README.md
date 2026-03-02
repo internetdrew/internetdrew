@@ -5,7 +5,7 @@ I start with the user experience and work backward to the system. TypeScript, Re
 
 ## Building
 - [MenuNook](https://github.com/internetdrew/menu-nook-app) - A digital menu platform that lets guests see, watch, or hear about every dish, turning every table visit into a memorable experience.
-- [Absence AI](https://github.com/internetdrew/absence-ai) - Voice agent that automates school absence reporting end-to-end. Zero staff involvement.
+- [Absence AI](https://github.com/internetdrew/absence-ai) - Voice agent demonstration that automates school absence reporting end-to-end. Zero staff involvement.
 
 ## Writing
 - [Simplicity Matters](https://www.internetdrew.com/thoughts/simplicity-matters) - Thoughts on wanting calm in an era of accelerating chaos.
