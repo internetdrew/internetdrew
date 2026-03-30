@@ -4,8 +4,8 @@ Full-stack engineer. Strong bias toward interface craft, interaction design, and
 I start with the user experience and work backward to the system. TypeScript, React, Node, but the stack follows the problem.
 
 ## Builds
-- [MenuNook](https://github.com/internetdrew/menu-nook-app) -   A menu publishing platform that helps businesses create clean, mobile-friendly
-  menus that are easy to update.
+- [MenuNook](https://github.com/internetdrew/menu-nook-app) -   A lightweight tool for publishing clean, mobile-first selling pages that are
+  easy to update and easy to share.
 - [Absence AI](https://github.com/internetdrew/absence-ai) - Demo of a voice-powered assistant using LLMs to fully automate school absence reporting, no staff intervention required.
 
 ## Writing
