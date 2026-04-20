@@ -10,6 +10,8 @@ I start with the user experience and work backward to the system. TypeScript, Re
 ## Writing
 - [Simplicity Matters](https://www.internetdrew.com/thoughts/simplicity-matters) - Thoughts on wanting calm in an era of accelerating chaos.
 - [The Rule That Guides Everything I Build](https://www.internetdrew.com/thoughts/the-rule-that-guides-everything-i-build) - My guiding star for impactful implementations and communications.
+- [Absence AI](https://www.internetdrew.com/thoughts/absence-ai) - Product thoughts on simplifying absence reporting with conversational AI.
+- [MenuNook](https://www.internetdrew.com/thoughts/menunook) - Product thoughts behind a simple menu experience for local food sellers.
 
 <!---
 internetdrew/internetdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
