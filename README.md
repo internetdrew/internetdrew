@@ -1,7 +1,6 @@
 ## Hi, I'm Andrew!
 
-Full-stack engineer. Strong bias toward interface craft, interaction design, and the details that make software feel intentional.
-I start with the user experience and work backward to the system. TypeScript, React, Node, but the stack follows the problem.
+Full-stack engineer. Strong bias toward interface craft, interaction design, and the details that make software feel intentional. TypeScript, React, Node, but the stack follows the problem.
 
 ## Builds
 - [MenuNook](https://github.com/internetdrew/menu-nook-app) - A mobile-first digital menu platform for small food sellers who need a simple, polished way to share what's available without maintaining a full ecommerce site.
