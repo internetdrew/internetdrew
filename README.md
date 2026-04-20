@@ -8,10 +8,10 @@ I start with the user experience and work backward to the system. TypeScript, Re
 - [Absence AI](https://github.com/internetdrew/absence-ai) - A voice-powered absence reporting demo that turns natural parent conversations into structured school actions, exploring how AI can remove repetitive admin work without adding friction.
 
 ## Writing
-- [Simplicity Matters](https://www.internetdrew.com/thoughts/simplicity-matters) - Thoughts on wanting calm in an era of accelerating chaos.
-- [The Rule That Guides Everything I Build](https://www.internetdrew.com/thoughts/the-rule-that-guides-everything-i-build) - My guiding star for impactful implementations and communications.
-- [Absence AI](https://www.internetdrew.com/thoughts/absence-ai) - Product thoughts on simplifying absence reporting with conversational AI.
 - [MenuNook](https://www.internetdrew.com/thoughts/menunook) - Product thoughts behind a simple menu experience for local food sellers.
+- [Absence AI](https://www.internetdrew.com/thoughts/absence-ai) - Product thoughts on simplifying absence reporting with conversational AI.
+- [The Rule That Guides Everything I Build](https://www.internetdrew.com/thoughts/the-rule-that-guides-everything-i-build) - My guiding star for impactful implementations and communications.
+- [Simplicity Matters](https://www.internetdrew.com/thoughts/simplicity-matters) - Thoughts on wanting calm in an era of accelerating chaos.
 
 <!---
 internetdrew/internetdrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
