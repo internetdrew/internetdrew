@@ -7,7 +7,7 @@ Full-stack engineer. Strong bias toward interface craft, interaction design, and
 - [Absence AI](https://github.com/internetdrew/absence-ai) - A voice-powered absence reporting demo that turns natural parent conversations into structured school actions, exploring how AI can remove repetitive admin work without adding friction.
 
 ## Writing
-- [MenuNook](https://www.internetdrew.com/thoughts/menunook) - Product thoughts behind a simple live menu platform for local food sellers.
+- [MenuNook](https://www.internetdrew.com/work/menunook) - Product thoughts behind a simple live menu platform for local food sellers.
 - [Simplicity Matters](https://www.internetdrew.com/thoughts/simplicity-matters) - Thoughts on wanting calm in an era of accelerating chaos.
 
 <!---
