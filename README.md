@@ -3,7 +3,7 @@
 Full-stack engineer. Strong bias toward interface craft, interaction design, and the details that make software feel intentional.
 
 ## Builds
-- [MenuNook](https://github.com/internetdrew/menu-nook-app) - A simple live menu platform for local food sellers who need a clean, searchable, shareable menu page without building a full website or online checkout.
+- [MenuNook](https://github.com/internetdrew/menu-nook-app) - A simple online menu with QR code for local food sellers. Share one clean, searchable menu page and update it anytime—no website or online checkout required.
 - [Absence AI](https://github.com/internetdrew/absence-ai) - A voice-powered absence reporting demo that turns natural parent conversations into structured school actions, exploring how AI can remove repetitive admin work without adding friction.
 
 ## Writing
